@@ -10,17 +10,22 @@ O projeto inclui etapas de exploração de dados, análise de correlações, tre
 ### **Estrutura do Repositório**
 
 ```bash
-├── data/                   # Arquivos de dados utilizados no projeto
-│   ├── housing.csv          # Conjunto de dados principal
-│   ├── independente.csv      # Dados preditores (X)
-│   ├── dependente.csv        # Dados dependentes (y)
-├── notebooks/               # Notebooks Jupyter utilizados na análise
-│   ├── Boston housing - EDA.ipynb  # Análise exploratória inicial dos dados
-│   ├── Boston housing - regressao linear.ipynb     # Treinamento e avaliação dos modelos de regressão
-    ├── Boston housing - avaliacao com statsmodel.ipynb     # avaliação dos modelos de regressão simples e múltipla com statsmodel
-├── models/                 # Modelos treinados para uso futuro (se necessário)
-│   ├── regressor.pkl        # Modelo Random Forest treinado salvo
-├── README.md                # Este arquivo README
+.
+├── data/
+│   ├── dependente.csv
+│   ├── housing.csv
+│   └── independente.csv
+├── models/
+│   └── regressor.pkl
+├── notebooks/
+│   ├── Boston housing - avaliaçao com statsmodel.ipynb
+│   ├── Boston housing - EDA.ipynb
+│   ├── Boston housing - regressao linear.ipynb
+├── reports/
+│   ├── Relatório - avaliaçao de regressao com statsmodel.md
+│   ├── Relatório - EDA.md
+│   ├── Relatório final.md
+└── README.md
 
 ```
 
@@ -84,6 +89,13 @@ O projeto inclui etapas de exploração de dados, análise de correlações, tre
    ```
 
 ---
+
+### **Relatórios**
+Todos os notebooks forum documentados através de seus relatórios, você pode conferir aqui:
+- [Relatório da análise exploratória de dados](/reports/Relatório - EDA.md)
+- [Relatório da avaliação dos modelos de regressão simples e múltipas com StatsModel](/reports/Relatório - avaliação de regressao com statsmodel.md)
+- [Relatório do com as métricas dos algoritmos treinados e conclusão do projeto](/reports/Relatório final.md)
+
 
 ### **Conclusão**
 
