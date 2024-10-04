@@ -94,11 +94,11 @@ O projeto inclui etapas de exploração de dados, análise de correlações, tre
 
 Todos os notebooks forum documentados através de seus relatórios, você pode conferir aqui:
 
-- [Relatório da análise exploratória de dados](./reports/Relatório - EDA.md)
+- [Relatório da análise exploratória de dados](reports/Relatório%20%-%20%EDA.md)
 
-- [Relatório da avaliação dos modelos de regressão simples e múltipas com StatsModel](./reports/Relatório - avaliação de regressao com statsmodel.md)
+- [Relatório da avaliação dos modelos de regressão simples e múltipas com StatsModel](./reports/Relatório%20%-%20%avaliação%20%de%20%regressao%20%com%20%statsmodel.md)
 
-- [Relatório do com as métricas dos algoritmos treinados e conclusão do projeto](./reports/Relatório final.md)
+- [Relatório do com as métricas dos algoritmos treinados e conclusão do projeto](./reports/Relatório%20%final.md)
 
 ---
 
