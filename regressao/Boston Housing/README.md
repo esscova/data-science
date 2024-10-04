@@ -1,4 +1,4 @@
-## Regressão para Predição de Preços de Imóveis**
+## Regressão para Predição de Preços de Imóveis
 
 ### **Descrição do Projeto**
 Este projeto tem como objetivo prever o valor médio dos imóveis com base em características socioeconômicas e estruturais, como o número de cômodos, a proporção de população de baixa renda, e a proporção de alunos por professor. Foram utilizados diversos modelos de regressão, desde métodos lineares até algoritmos mais avançados de **Machine Learning** como **XGBoost** e **CatBoost**.
@@ -91,11 +91,16 @@ O projeto inclui etapas de exploração de dados, análise de correlações, tre
 ---
 
 ### **Relatórios**
-Todos os notebooks forum documentados através de seus relatórios, você pode conferir aqui:
-- [Relatório da análise exploratória de dados](/reports/Relatório - EDA.md)
-- [Relatório da avaliação dos modelos de regressão simples e múltipas com StatsModel](/reports/Relatório - avaliação de regressao com statsmodel.md)
-- [Relatório do com as métricas dos algoritmos treinados e conclusão do projeto](/reports/Relatório final.md)
 
+Todos os notebooks forum documentados através de seus relatórios, você pode conferir aqui:
+
+- [Relatório da análise exploratória de dados](./reports/Relatório - EDA.md)
+
+- [Relatório da avaliação dos modelos de regressão simples e múltipas com StatsModel](./reports/Relatório - avaliação de regressao com statsmodel.md)
+
+- [Relatório do com as métricas dos algoritmos treinados e conclusão do projeto](./reports/Relatório final.md)
+
+---
 
 ### **Conclusão**
 
