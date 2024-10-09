@@ -9,3 +9,5 @@
 
 ### Regressão
 - [Preditor para preço de imóveis](./regressao/Boston%20Housing/) : Preveja o Valor do Seu Imóvel com Precisão, este projeto utiliza técnicas avançadas de Aprendizado de Máquina para prever com precisão o valor médio dos imóveis com base em características socioeconômicas e estruturais, como o número de cômodos, a proporção de população de baixa renda e a proporção de alunos por professor.
+
+-[Medical Cost](./regressao/Medical%20Cost/) : Previsão de custos médicos com Python e machine learning. O projeto compara diversos algoritmos e apresenta resultados detalhados em relatórios. A estrutura do repositório é bem organizada e facilita a reprodução dos resultados.
