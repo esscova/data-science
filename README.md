@@ -3,7 +3,9 @@
 <p align='center'>
 	<img src='https://mps.rutgers.edu/images/slides/DATA_SCIENCE_AdobeStock-294794307.jpg'/>
 </p>
+
 ## Materiais de Estudo
+
 - [Agrupamento com K-Modes](./materiais%20de%20estudo/kmodes%20algorithm) : O algoritmo K-modes é usado para agrupar dados categóricos em k clusters. Ele é um algoritmo de aprendizado de máquina não supervisionado que divide um conjunto de dados em grupos com base em seus atributos categóricos.
 
 ## Projetos
