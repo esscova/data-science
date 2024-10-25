@@ -1,5 +1,5 @@
 # Mall Customers Clustering Analysis
-<p align='center'>
+<p align='center' width=500>
     <img src='https://www.negocioefranquia.com/wp-content/uploads/2018/01/mall-em-shopping.jpg'/>
 </p>
 Este projeto realiza a análise e segmentação de clientes de um shopping com base no comportamento de gastos e dados demográficos. O objetivo é identificar grupos de clientes similares para auxiliar em campanhas de marketing direcionadas e outras decisões comerciais.
@@ -64,4 +64,3 @@ Os modelos de clustering identificaram diferentes perfis de clientes. A segmenta
 
 **Autor:** Wellington Moreira | [LinkedIn](https://www.linkedin.com/in/wellington-moreira-santos/)  
 **Licença:** MIT
-```
