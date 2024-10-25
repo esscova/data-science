@@ -3,6 +3,10 @@
 <p align='center'>
 	<img src='https://mps.rutgers.edu/images/slides/DATA_SCIENCE_AdobeStock-294794307.jpg'/>
 </p>
+## Materiais de Estudo
+- [Agrupamento com K-Modes](./materiais%20de%20estudo/kmodes%20algorithm) : O algoritmo K-modes é usado para agrupar dados categóricos em k clusters. Ele é um algoritmo de aprendizado de máquina não supervisionado que divide um conjunto de dados em grupos com base em seus atributos categóricos.
+
+## Projetos
 
 ### Classificação
 - [Classificador de insuficiência cardíaca](./ml_classification/Heart%20failure%20prediction/) : Mas e o coração? tá bem? ou só lembra dele nas sofrências? Este repositorio apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
