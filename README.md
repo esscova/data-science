@@ -6,6 +6,7 @@
 
 ## Materiais de Estudo
 
+- [Técnicas de Agrupamento](./materiais%20de%20estudo/wine%20clustering) :  Técnicas de agrupamento são aplicadas em várias áreas, como análise de mercado, reconhecimento de padrões e até em segmentação de clientes. Diferente da classificação, que trabalha com dados rotulados, o agrupamento lida com dados não rotulados, sendo assim uma tarefa de exploração.
 - [Agrupamento com K-Modes](./materiais%20de%20estudo/kmodes%20algorithm) : O algoritmo K-modes é usado para agrupar dados categóricos em k clusters. Ele é um algoritmo de aprendizado de máquina não supervisionado que divide um conjunto de dados em grupos com base em seus atributos categóricos.
 
 ## Projetos
