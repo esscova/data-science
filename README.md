@@ -6,6 +6,7 @@
 
 ## Materiais de Estudo
 
+-[Redes Neurais para Classificação](./materiais%20de%20estudo/ANN%20heart%20failure) : Neste estudo, vamos usar uma rede neural para classificar se um paciente tem ou não doença cardíaca. Para isso, vamos usar um conjunto de dados específico sobre condições cardíacas e um processo de preparação dos dados bem detalhado para garantir que o modelo funcione da melhor forma possível. 
 - [Redes Neurais para Regressão](./materiais%20de%20estudo/ANN%20boston%20housing) : A tarefa de regressão é um método de aprendizado supervisionado focado na previsão de valores contínuos, sendo amplamente utilizado em cenários como precificação de imóveis, previsão de demanda e estimativas de vendas. Neste estudo, utilizamos redes neurais para modelar um problema de regressão com o dataset Boston Housing, que visa estimar o valor médio das residências em diversas áreas da cidade de Boston.
 - [Técnicas de Agrupamento](./materiais%20de%20estudo/wine%20clustering) :  Técnicas de agrupamento são aplicadas em várias áreas, como análise de mercado, reconhecimento de padrões e até em segmentação de clientes. Diferente da classificação, que trabalha com dados rotulados, o agrupamento lida com dados não rotulados, sendo assim uma tarefa de exploração.
 - [Agrupamento com K-Modes](./materiais%20de%20estudo/kmodes%20algorithm) : O algoritmo K-modes é usado para agrupar dados categóricos em k clusters. Ele é um algoritmo de aprendizado de máquina não supervisionado que divide um conjunto de dados em grupos com base em seus atributos categóricos.
