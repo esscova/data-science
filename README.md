@@ -13,6 +13,8 @@
 ## Projetos
 
 ### Classificação
+- [Qualidade de veículos](./ml_classification/classificador%20de%20veiculos/) : Este projeto apresenta uma aplicação de classificação de veículos, desenvolvida com Streamlit e utilizando o modelo de classificação Naive Bayes categórico. O objetivo é prever a categoria de um veículo com base em características fornecidas, explorando técnicas de pré-processamento e avaliação de modelos de machine learning.
+
 - [Classificador de insuficiência cardíaca](./ml_classification/Heart%20failure%20prediction/) : Mas e o coração? tá bem? ou só lembra dele nas sofrências? Este repositorio apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
 
 - [Classificador para câncer de mama](./ml_classification/Breast%20Cancer/) : Você sabia que o câncer de mama é uma das principais causas de morte entre as mulheres em todo o mundo? No entanto, com a detecção precoce e o diagnóstico correto, é possível salvar vidas. Descubra como a Ciência de Dados pode Revolucionar o Diagnóstico do Câncer de Mama.
