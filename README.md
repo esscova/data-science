@@ -55,6 +55,10 @@ Abaixo está a estrutura geral do repositório, organizada em categorias que rep
 - [Segmentação de Grupos de Clientes](./clustering/mall_customers/)  
   Para otimizar estratégias de marketing e decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
 
+### Regras de assossiação
+- [Padrões de compra dos consumidores de um supermercado](./association_rules/grocieres/)  
+  Este projeto aplica o algoritmo Apriori para analisar padrões de compra em um dataset de transações de um supermercado (Groceries). O objetivo é descobrir quais produtos são frequentemente comprados juntos, fornecendo insights para melhorar estratégias de vendas, otimizar o layout do estabelecimento e personalizar ofertas para os clientes, levando a uma experiência de compra mais eficiente e satisfatória.
+
 ---
 
 ## Conteúdos Adicionais
