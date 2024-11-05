@@ -24,6 +24,8 @@ Abaixo está a estrutura geral do repositório, organizada em categorias que rep
 │   ...
 ├── shared_utils                      # Funções e utilidades compartilhadas
 ├── study_materials                   # Material de estudo 
+├── time_series                       # Projetos de séries temporais
+├── probabilistic                     # Projetos com modelagem probabilística
 └── LICENSE                           # Licença do repositório
 ```
 
@@ -62,6 +64,10 @@ Abaixo está a estrutura geral do repositório, organizada em categorias que rep
 ### Séries temporais
 - [Previsão de vendas de leite com séries temporais](./time_series/milk_sales/)  
   Este projeto desenvolve uma aplicação de previsão de vendas de leite utilizando Streamlit e o modelo de séries temporais SARIMA. A aplicação permite que os usuários carreguem uma série temporal de dados históricos de vendas e, com base nessa informação, realizem previsões precisas para períodos futuros. Além disso, a aplicação fornece uma visão detalhada da decomposição e da projeção das vendas, permitindo que os usuários tomem decisões informadas sobre suas estratégias de negócios.
+
+### Modelagem probabilística
+- [Probabilidade de falhas em equipamentos](./probabilistic/failure_probabilities/)  
+  Explore a distribuição de falhas em equipamentos com Streamlit através da modelagem de Poisson, neste projeto é possível calcular probabilidades exatas, acumuladas e complementares, fornecendo insights valiosos sobre a confiabilidade do sistema. O projeto integra bibliotecas como NumPy, Matplotlib e SciPy para garantir precisão e eficiência nos cálculos.
 
 ---
 
