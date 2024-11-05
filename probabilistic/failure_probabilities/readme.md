@@ -1,5 +1,7 @@
 # Probabilidade de Falhas em Equipamentos com Streamlit e Distribuição de Poisson
 
+![img](.img/screenshot.png)
+
 Este projeto apresenta uma aplicação para análise de falhas em equipamentos, desenvolvida com [Streamlit](https://streamlit.io/). Utilizando a **Distribuição de Poisson**, o projeto permite que o usuário calcule probabilidades de falhas em equipamentos em função de uma ocorrência média esperada. É uma ferramenta útil para avaliações de manutenção preditiva e confiabilidade.
 
 ## Visão Geral
