@@ -58,6 +58,8 @@ Abaixo está a estrutura geral do repositório, organizada em categorias que rep
   Para otimizar estratégias de marketing e decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
 
 ### Regras de assossiação
+- [Sistema de recomendação](./association_rules/sistema_recomendacoes/)  
+  Este projeto apresenta uma aplicação para geração de regras de recomendação, desenvolvida com Streamlite utilizando o algoritmo Apriori para encontrar padrões em transações. O objetivo é permitir ao usuário carregar um conjunto de transações e, a partir disso, gerar e visualizar regras de associação.
 - [Padrões de compra dos consumidores de um supermercado](./association_rules/grocieres/)  
   Este projeto aplica o algoritmo Apriori para analisar padrões de compra em um dataset de transações de um supermercado (Groceries). O objetivo é descobrir quais produtos são frequentemente comprados juntos, fornecendo insights para melhorar estratégias de vendas, otimizar o layout do estabelecimento e personalizar ofertas para os clientes, levando a uma experiência de compra mais eficiente e satisfatória.
 
