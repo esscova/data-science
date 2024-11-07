@@ -1,5 +1,7 @@
 # Geração de Regras de Recomendação com Streamlit e Apriori
 
+![](screenshot.png)
+
 Este projeto apresenta uma aplicação para geração de regras de recomendação, desenvolvida com [Streamlit](https://streamlit.io/) e utilizando o algoritmo Apriori para encontrar padrões em transações. O objetivo é permitir ao usuário carregar um conjunto de transações e, a partir disso, gerar e visualizar regras de associação.
 
 ## Visão Geral
